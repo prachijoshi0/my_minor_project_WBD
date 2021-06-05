@@ -1,2 +1,2 @@
-# my_minor_project_WBD Portfolio Website
+# my_minor_project_WBD 
 By using HTML, CSS and JavaScript
