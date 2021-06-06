@@ -7,3 +7,4 @@ By using HTML and CSS
 ![miniproject1 (2)](https://user-images.githubusercontent.com/83748511/120936477-93a95e80-c725-11eb-9975-19e99e4c8165.png)
 ![miniProject2(1)](https://user-images.githubusercontent.com/83748511/120936510-c6ebed80-c725-11eb-8523-45ed262f221d.png)
 ![miniProject2(2)](https://user-images.githubusercontent.com/83748511/120936540-f569c880-c725-11eb-93d1-82e51231d40e.png)
+![minProject2(3)](https://user-images.githubusercontent.com/83748511/120936569-1f22ef80-c726-11eb-9291-bebb2780789b.png)
